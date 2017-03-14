@@ -1,5 +1,8 @@
 _repo: Ranson-s-Folly_5643
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -13,6 +16,8 @@ description: A collection of two novellas and three short stories, Ranson's Foll
   title story was later dramatized by Davis and made into a movie; the collection
   also includes &#147;The Bar Sinister, &#147;A Derelict, &#147;La Lettre D'Amour,
   and &#147;In the Fog.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5643#Ranson-s-Folly
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
